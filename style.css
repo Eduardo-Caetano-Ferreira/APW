@@ -1,0 +1,77 @@
+
+.rodape p{
+	margin-top: 150px;
+}
+.foto img{
+	width: 100%;
+	height: 200px;
+}
+.logo{
+	width: 250px;
+	height: 250px;
+	float: left;
+	padding-right: 10px;
+	overflow: left;
+}
+h1{
+	text-align: center;
+	color: white;
+	float: center;
+	font-size: 37px;
+	text-shadow: 0 0 9px #023859;
+}
+
+#footer{
+	background-color: #023859;
+	padding-top: 80px;
+	margin-top: 2px;
+	margin-left: -10px;
+	margin-right: -10px;
+	margin-bottom: -15px;
+	color: white;
+	
+}
+#one{
+	background-color: #FFA4FF;
+	border-radius: 10px;
+	border: 3px solid #023859;
+}
+#two{
+	background-color: #FFA4FF;
+	border-radius: 10px;
+	border: 3px solid #023859;
+}
+.titulo h1{
+	text-align: center;
+	font-family: Arial;
+	text-transform: uppercase;
+	height: 110px;
+	padding-top: 100px;
+	padding-right: 210px;
+	text-shadow: 0 0 9px #DB29F2;
+	font-size: 55px;
+}
+body{
+	background-color: #020403;
+}
+.titulo p{
+	color: white;
+	text-align: center;
+	float: center;
+	padding-right: 220px;
+}
+.feito{
+	text-align: center;
+	
+}
+.image{
+	width: 100px;
+	float: left;
+	padding-right: 20px;
+}
+#maior{
+	width: 120px;
+}
+#menor{
+	width: 100px;
+}
